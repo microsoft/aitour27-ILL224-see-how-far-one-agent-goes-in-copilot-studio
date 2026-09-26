@@ -6,7 +6,7 @@ Presenter, re-delivery, and train-the-trainer materials for ILL224: See How Far 
 
 | Item | Link | Notes |
 | --- | --- | --- |
-| Delivery deck | Pending public URL | Required before publication |
+| Delivery deck | [Download the ILL224 deck](https://github.com/microsoft/aitour27-ILL224-see-how-far-one-agent-goes-in-copilot-studio/raw/refs/heads/main/delivery-resources/ILL224_AITourFY27.pptx) | PowerPoint presentation |
 | Session recording | Not yet available | Optional |
 | Attendee landing page | [Session README](../README.md) | Public starting point |
 | Lab instructions | [Attendee instructions](../instructions/README.md) | Guided and self-paced paths |
