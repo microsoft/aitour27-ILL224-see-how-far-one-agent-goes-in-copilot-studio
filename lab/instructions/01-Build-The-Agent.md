@@ -10,7 +10,7 @@ You will create the agent and establish its purpose and boundaries before connec
 1. Sign in with +++@lab.CloudCredential(CSBatch1).Username+++ and the provided password or Temporary Access Pass.
 1. Select the environment shown as +++@lab.Variable(POWER_PLATFORM_ENVIRONMENT)+++.
 
-    ![Select the assigned Power Platform environment](./assets/01.1-select-environment.png-select-environment.png)
+    ![Select the assigned Power Platform environment](./assets/01.1-select-environment.png)
 
 1. On the home page, select the **Agent (GitHub Copilot)** tile.
 

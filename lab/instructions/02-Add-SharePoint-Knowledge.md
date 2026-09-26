@@ -24,7 +24,7 @@ Contracts, policy, approvals, and quality documents are are the sources that wil
 
 1. Confirm the knowledge source is now showing in the knowledge section. Select the **Save** icon in the upper right hand corner.
 
-    ![Confirm knowledge](./assets/02.2-select-sharepoint.png)
+    ![Confirm knowledge](./assets/02.5-confirm-knowledge.png)
 
 > [!NOTE]
 > **Why:** Knowledge retrieves relevant information from governed documents. It's different from an MCP tool, which performs live operations against data.
