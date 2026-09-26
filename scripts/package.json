@@ -1,0 +1,16 @@
+{
+  "name": "ill224-caldova-lab-package",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Generates the fictional Office, PDF, CSV, and skill artifacts for ILL224.",
+  "scripts": {
+    "build": "node generate_documents.js && python3 generate_tabular_and_skill.py"
+  },
+  "dependencies": {
+    "docx": "^9.5.1",
+    "pptxgenjs": "^4.0.1"
+  },
+  "overrides": {
+    "image-size": "2.0.4"
+  }
+}

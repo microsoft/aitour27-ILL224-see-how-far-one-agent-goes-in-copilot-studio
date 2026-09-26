@@ -1,0 +1,17 @@
+﻿Title,Invoice ID,Sequence,Description,Quantity,Unit Price,Amount,Claimed Contract Reference
+ARB-260814-1,ARB-260814,1,Commercial manufacturing batch,1,185000,185000,Section 4.1
+ARB-260814-2,ARB-260814,2,Expedited production premium,1,14800,14800,Section 4.2
+ARB-260814-3,ARB-260814,3,Cold-chain freight,1,12200,12200,Section 4.3
+ARB-260814-4,ARB-260814,4,Validation documentation package,1,5700,5700,
+NWT-260821-1,NWT-260821,1,Packaging and labeling production run,1,96000,96000,Section 4.1
+NWT-260821-2,NWT-260821,2,Serialized label setup,1,12000,12000,Section 4.2
+NWT-260821-3,NWT-260821,3,Standard freight,1,4800,4800,Section 4.3
+NWT-260821-4,NWT-260821,4,Rush changeover fee,1,9500,9500,
+CBP-260825-1,CBP-260825,1,Sterile vial preparation and filling,1,65000,65000,Section 3.1
+CBP-260825-2,CBP-260825,2,Release testing coordination,1,18000,18000,Section 3.2
+CBP-260825-3,CBP-260825,3,Environmental monitoring,1,4500,4500,Section 3.4
+CBP-260825-4,CBP-260825,4,Deviation handling,1,2000,2000,
+FCC-260829-1,FCC-260829,1,Refrigerated transport and storage,1,51000,51000,Section 5.1
+FCC-260829-2,FCC-260829,2,Cold-chain monitoring and reporting,1,8200,8200,Section 5.3
+FCC-260829-3,FCC-260829,3,Fuel surcharge,1,5000,5000,Section 5.4
+FCC-260829-4,FCC-260829,4,Delivery validation package,1,3000,3000,

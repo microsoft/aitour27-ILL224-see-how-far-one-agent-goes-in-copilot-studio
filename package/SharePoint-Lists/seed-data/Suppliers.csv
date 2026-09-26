@@ -1,0 +1,5 @@
+﻿Title,Supplier ID,Status,Risk Tier,Contract ID,Payment Terms,Eligible for Standard Controls
+Astor Ridge Biologics,SUP-1042,Active,Medium,CMO-2026-041,Net 60,Yes
+Northwind Therapeutics,SUP-1088,Active,Low,PKG-2026-052,Net 45,Yes
+Contoso BioProcessing,SUP-1114,Conditional,High,CLN-2026-063,Net 60,No
+Fabrikam Cold Chain,SUP-1150,Active,Medium,LOG-2026-074,Net 45,Yes

@@ -1,5 +1,5 @@
 # Infrastructure
 
-<!-- AI TOUR TEMPLATE PLACEHOLDER: remove this folder when the session needs no infrastructure. -->
+The [environment setup guide](../environment/README.md) defines the Microsoft 365 tenant, SharePoint, Power Platform, Skillable, permissions, validation, and reset requirements.
 
-Use this folder for deployment or runtime infrastructure, including Skillable-specific files when needed.
+Use the [SharePoint provisioning package](../environment/sharepoint-provisioning/README.md) to create and seed the required document library and lists.

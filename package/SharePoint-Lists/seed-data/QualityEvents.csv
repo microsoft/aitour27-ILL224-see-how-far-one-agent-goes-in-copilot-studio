@@ -1,0 +1,5 @@
+﻿Title,Supplier ID,Batch or Lot ID,Event Status,Active Quality Hold,Product Impact,Summary
+QE-2026-118,SUP-1042,CDV-AX47,Open,No,No,Temperature logger showed a short excursion during transit. Quality review found no product impact; corrective-action tracking remains open.
+QE-2026-127,SUP-1114,CDV-CL19,Open,Yes,Under Review,Release-testing deviation; Caldova Quality explicitly issued an active hold.
+QE-2026-132,SUP-1088,CDV-LB22,Closed,No,No,Packaging lot records and temperature logs were reviewed with no exception or product impact.
+QE-2026-141,SUP-1150,CDV-FC08,Closed,No,No,Cold-chain delivery remained within the validated temperature range with no product impact.
