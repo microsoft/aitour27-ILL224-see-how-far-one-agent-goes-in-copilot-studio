@@ -6,8 +6,8 @@ Presenter, re-delivery, and train-the-trainer materials for ILL224: See How Far 
 
 | Item | Link | Notes |
 | --- | --- | --- |
-| Delivery deck | coming soon | PowerPoint presentation |
-| Session recording | Not yet available | Optional |
+| Delivery deck | Avail 10.12.26  | PowerPoint presentation |
+| Session recording | Coming soon | Optional |
 | Attendee landing page | [Session README](../README.md) | Public starting point |
 | Lab instructions | [Attendee instructions](../instructions/README.md) | Guided and self-paced paths |
 | Presenter guidance | [Presenter guide](../presenter/README.md) | Timing, talk track, expected results, and recovery paths |
