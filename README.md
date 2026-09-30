@@ -58,6 +58,7 @@ By the end of this session, you will be able to:
 | --- | --- |
 | [Microsoft Copilot Studio documentation](https://learn.microsoft.com/microsoft-copilot-studio/) | Product concepts, authoring guidance, and administration documentation |
 | [Microsoft Learn](https://learn.microsoft.com) | Official documentation and guided learning paths |
+| [Session recording](https://aka.ms/aitour27/ILL224/youtube) | Watch the ILL224 session recording |
 | [AI Tour 2027 Resource Center](https://aka.ms/aitour27-resource-center) | Additional AI Tour session repositories and materials |
 
 ### Content owner
