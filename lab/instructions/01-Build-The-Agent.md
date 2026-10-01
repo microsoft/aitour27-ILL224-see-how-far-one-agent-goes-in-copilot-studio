@@ -8,7 +8,7 @@ You will create the agent and establish its purpose and boundaries before connec
 
 1. In Edge, open +++https://copilotstudio.microsoft.com+++.
 1. Sign in with +++@lab.CloudCredential(CSBatch1).Username+++ and the provided password or Temporary Access Pass.
-1. Select the environment shown as +++@lab.Variable(POWER_PLATFORM_ENVIRONMENT)+++.
+1. Select the environment dropdown in the bottom left-hand corner and choose the **DevOne** environment.
 
     ![Select the assigned Power Platform environment](./assets/01.1-select-environment.png)
 
