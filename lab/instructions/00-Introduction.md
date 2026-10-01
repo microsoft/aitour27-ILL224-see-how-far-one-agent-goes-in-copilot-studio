@@ -28,7 +28,7 @@ The green text with the +++icon+++ can be clicked on and will be typed automatic
 
 ## Verify your assigned resources
 
-1. Confirm the Resources panel shows values for `ADMINISTRATIVE USERNAME` and `TEMPORARY ACCESS PASS`'. You will need these to login to the Microsoft 365 account.
+1. Confirm the Resources panel shows values for **ADMINISTRATIVE USERNAME** and **TEMPORARY ACCESS PASS**. You'll need these to login to the Microsoft 365 account.
 1. Confirm the lab files exist at `C:\LabFiles\ILL224`.
 1. Open Microsoft Edge.
 
