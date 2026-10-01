@@ -22,24 +22,17 @@ The agent never pays an invoice, rejects a charge, changes supplier status, or i
 
 ## Sign in to the virtual machine
 
-The green text surrounded by `+++` can be selected to autotype into the virtual machine.
+The green text with the +++icon+++ can be clicked on and will be typed automatically into the VM, For example, please click in the password text box and then click the password: +++@lab.VirtualMachine(ILL224).Password+++
 
-**Username:** +++@lab.CloudCredential(CSBatch1).Username+++
+[!note] To ensure text is entered accurately avoid interacting or clicking in the VM until the text has finished being typed
 
-**Password:** +++@lab.CloudCredential(CSBatch1).Password+++
+## Verify your assigned resources
 
-**Temporary Access Pass:** +++@lab.Variable(TAP)+++
+1. Confirm the Resources panel shows values for `ADMINISTRATIVE USERNAME` and `TEMPORARY ACCESS PASS`'. You will need these to login to the Microsoft 365 account.
+1. Confirm the lab files exist at `C:\LabFiles\ILL224`.
+1. Open Microsoft Edge.
 
 > [!NOTE]
 > If credentials are missing, select **Refresh Credentials**. Wait for autotype to finish before interacting with the VM.
 
-## Verify your assigned resources
-
-1. Confirm the Resources panel shows values for `POWER_PLATFORM_ENVIRONMENT`, `SHAREPOINT_SITE_URL`, and `REVIEW_REQUESTS_LIST_URL`. `SHAREPOINT_SITE_URL` should be the assigned tenant's root SharePoint URL.
-1. Confirm the lab files exist at `C:\LabFiles\ILL224`.
-1. Open Microsoft Edge.
-
-> [!IMPORTANT]
-> Use only the assigned account, environment, and SharePoint site. If a value does not match, stop and contact the facilitator.
-
-Select **Next** to build the agent.
+Ready to get started? Click **Next**.
