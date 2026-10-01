@@ -2,9 +2,7 @@
 
 # 1 - Build the Supplier Assurance Agent
 
-@lab.Activity(Automated1)
-
-You will create the agent and establish its purpose and boundaries before connecting data.
+The first step in creating your agent is to establish its purpose and boundaries before connecting data.
 
 1. In Edge, open +++https://copilotstudio.microsoft.com+++.
 1. Sign in with +++@lab.CloudCredential(CSBatch1).Username+++ and the provided password or Temporary Access Pass.
