@@ -51,7 +51,7 @@ The harness will coordinate two skills. Invoice Fact Check gathers and structure
 1. Browse to:
 
     ```text
-    C:\LabFiles\ILL224\skills\invoice-review-decision.zip
+    D:\LabFiles\ILL224\skills\invoice-review-decision.zip
     ```
 
 1. Confirm that the skill shows up in the **Skills** section.
@@ -78,7 +78,7 @@ The harness will coordinate two skills. Invoice Fact Check gathers and structure
 1. 1. Select the **New chat** button. Select the **Plus Button** and attach:
 
     ```text
-    C:\LabFiles\ILL224\case-inputs\Caldova_Astor_Ridge_Invoice.xlsx
+    D:\LabFiles\ILL224\case-inputs\Caldova_Astor_Ridge_Invoice.xlsx
     ```
 
     ![Attach the file](./assets/04.11-attach-button.png)
