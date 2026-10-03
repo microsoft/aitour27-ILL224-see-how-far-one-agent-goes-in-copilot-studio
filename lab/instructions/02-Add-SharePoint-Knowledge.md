@@ -14,7 +14,7 @@ Contracts, policy, approvals, and quality documents are are the sources that wil
 
 1. Enter the assigned tenant root site URL then select **Add**:
 
-    +++@lab.CloudCredential(AITour27M365E7).TenantPrefix+++
+    +++@lab.CloudCredential(AITour27M365E7).TenantPrefix.sharepoint.com/sites/CaldovaSupplierOps+++
 
     ![Select the add button](./assets/02.3-add-button.png)
 
