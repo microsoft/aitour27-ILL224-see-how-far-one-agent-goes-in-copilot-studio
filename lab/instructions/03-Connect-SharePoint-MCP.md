@@ -31,12 +31,10 @@ Model Context Protocol exposes a menu of operations an agent can discover and ca
     ![Toggle off allow all](./assets/03.6-allow-all-off.png)
 
 1. Toggle all of the list of tools back to **On** EXCEPT the following:
-   - Create list
    - Delete list item
    - Delete list
    - Delete file or folder
    - Delete column
-   - Create column
    - Share file or folder
 1. Confirm **Create list item**, **Update list item**, and the list-reading tools are **On**. You will need those for the lab and don't want them accidentally turned off.
 1. Review and select the **Done** button.
@@ -75,11 +73,11 @@ Model Context Protocol exposes a menu of operations an agent can discover and ca
 
     ![Approve the request](./assets/03.11-approve-mcp.png)
 
-1. Confirm the response reports an active supplier, no active quality hold, invoice status `Review Requested`, and the request item ID.
+1. Confirm the response reports an active supplier, no active quality hold, invoice status Review Requested, and the request item ID.
 
     ![Review the response](./assets/03.12-review-response.png)
 
-1. Open `Invoice Review Requests` and verify one `Astor Ridge invoice review - ARB-260814` item has Status `New` and the specified request notes.
+1. Open the **Invoice Review Requests** lists and verify one **Astor Ridge invoice review - ARB-260814** item has Status **New** and the specified request notes.
 
     ![Review the list](./assets/03.13-view-list-item.png)
 
