@@ -34,7 +34,7 @@ Now you'll create a Workflow that starts an invoice review when a SharePoint req
 
     | Field | Value |
     | --- | --- |
-    | Site Address | +++@lab.CloudCredential(AITour27M365E7).TenantPrefix.sharepoint.com/sites/CaldovaSupplierOps+++ |
+    | Site Address | +++https://@lab.CloudCredential(AITour27M365E7).TenantPrefix.sharepoint.com/sites/CaldovaSupplierOps+++ |
     | List Name | `Invoice Review Requests` |
 
     ![Configure the trigger](./assets/06.6-trigger-config.png)
@@ -97,7 +97,7 @@ Now you'll create a Workflow that starts an invoice review when a SharePoint req
 
     | Field | Value |
     | --- | --- |
-    | Site Address | The same prepared tenant root SharePoint site |
+    | Site Address | +++https://@lab.CloudCredential(AITour27M365E7).TenantPrefix.sharepoint.com/sites/CaldovaSupplierOps+++  |
     | List Name | `Invoice Review Requests` |
     | Id | Trigger `ID` |
     | Title | Trigger `Title` |
