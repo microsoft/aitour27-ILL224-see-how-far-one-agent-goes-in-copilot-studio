@@ -40,7 +40,7 @@ Now we'll see how to add a layer of personalization to the agent with memories. 
 
     ![Test memory](./assets/05.7-test-memory.png)
 
-1. Confirm the response puts required attention under **My actions** and shows the invoice date using a UK format such as `14 August 2026`, not `08/14/2026`.
+1. Confirm the response puts required attention under **My actions** and shows the invoice date using a UK format such as **14 August 2026**, not **08/14/2026**.
 
     ![Review the response](./assets/05.8-review-memory-test.png)
 
@@ -64,7 +64,7 @@ Now we'll see how to add a layer of personalization to the agent with memories. 
 1. Select the **Browse** text and select this file:
 
     ```text
-    C:\LabFiles\ILL224\evaluation\Supplier-Assurance-Baseline.csv
+    C:\LabFiles\evaluation\Supplier-Assurance-Baseline.csv
     ```
 
     ![Find the eval file](./assets/05.12-browse.png)
@@ -73,7 +73,7 @@ Now we'll see how to add a layer of personalization to the agent with memories. 
 
     ![Name the evaluation](./assets/05.13-eval-name.png)
 
-1. Confirm the import contains two conversations: the multi-turn Astor Ridge review and the `$10,000` human-review policy threshold. Select the **Evaluate** button to start the evaluation (this will also save your evaluation)
+1. Confirm the import contains two conversations: the multi-turn Astor Ridge review and the **$10,000** human-review policy threshold. Select the **Evaluate** button to start the evaluation (this will also save your evaluation)
 
     ![Save the evaluation](./assets/05.14-save-eval.png)
 
