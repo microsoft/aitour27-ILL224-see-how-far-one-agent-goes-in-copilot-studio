@@ -22,14 +22,14 @@ The agent never pays an invoice, rejects a charge, changes supplier status, or i
 
 ## Sign in to the virtual machine
 
-The green text with the +++icon+++ can be clicked on and will be typed automatically into the VM, For example, please click in the password text box and then click the password: +++@lab.VirtualMachine(ILL224).Password+++
+The green text with the +++icon+++ can be clicked on and will be typed automatically into the VM, For example, please click in the password text box and then click the password: +++@lab.CloudCredential(AITour27M365E7).AdministrativePassword++
 
 [!note] To ensure text is entered accurately avoid interacting or clicking in the VM until the text has finished being typed
 
 ## Verify your assigned resources
 
 1. Confirm the Resources panel shows values for **ADMINISTRATIVE USERNAME** and **TEMPORARY ACCESS PASS**. You'll need these to login to the Microsoft 365 account.
-1. Confirm the lab files exist at `C:\LabFiles\ILL224`.
+1. Confirm the lab files exist in your Virtual Machine's hard drive at `D:\LabFiles\ILL224`.
 1. Open Microsoft Edge.
 
 > [!NOTE]
