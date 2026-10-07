@@ -4,7 +4,7 @@
 
 The first step in creating your agent is to establish its purpose and boundaries before connecting data.
 
-1. In Edge, open +++https://copilotstudio.microsoft.com+++.
+1. Open Microsoft Edge Browser and go to +++https://copilotstudio.microsoft.com+++.
 1. Sign in with +++@lab.CloudCredential(CSBatch1).Username+++ and the provided password or Temporary Access Pass.
 1. Select the environment dropdown in the bottom left-hand corner and choose the **DevOne** environment.
 
