@@ -22,7 +22,7 @@ The agent never pays an invoice, rejects a charge, changes supplier status, or i
 
 ## Sign in to the virtual machine
 
-The green text with the +++icon+++ can be clicked on and will be typed automatically into the VM, For example, please click in the password text box and then click the password: +++@lab.CloudCredential(AITour27M365E7).AdministrativePassword++
+The green text with the +++icon+++ can be clicked on and will be typed automatically into the VM, For example, please click in the password text box and then click the password: +++Passw0rd!++ to login to the Virtual Machine.
 
 [!note] To ensure text is entered accurately avoid interacting or clicking in the VM until the text has finished being typed
 
