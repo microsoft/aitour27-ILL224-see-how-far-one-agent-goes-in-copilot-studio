@@ -51,7 +51,7 @@ The harness will coordinate two skills. Invoice Fact Check gathers and structure
 1. Browse to:
 
     ```text
-    D:\LabFiles\ILL224\skills\invoice-review-decision.zip
+    D:\LabFiles\skills\invoice-review-decision.zip
     ```
 
 1. Confirm that the skill shows up in the **Skills** section.
@@ -78,7 +78,7 @@ The harness will coordinate two skills. Invoice Fact Check gathers and structure
 1. 1. Select the **New chat** button. Select the **Plus Button** and attach:
 
     ```text
-    D:\LabFiles\ILL224\case-inputs\Caldova_Astor_Ridge_Invoice.xlsx
+    D:\LabFiles\case-inputs\Caldova_Astor_Ridge_Invoice.xlsx
     ```
 
     ![Attach the file](./assets/04.11-attach-button.png)
@@ -93,19 +93,19 @@ The harness will coordinate two skills. Invoice Fact Check gathers and structure
 
 1. Inspect the activity and review the action it takes. Select **Approve** for any permissions screens that pop up:
    - attached Excel file read
-   - `invoice-fact-check` skill called
+   - **invoice-fact-check** skill called
    - SharePoint MCP list reads
    - SharePoint knowledge citations
-   - `invoice-review-decision` skill called
+   - **invoice-review-decision** skill called
    - Python execution
 
     ![Inspect the activity](./assets/04.13-skill-called.png)
 
-1. Confirm `$204,600` supported, `$13,100` disputed, `$0` reconciliation difference, no active quality hold, and human review required.
+1. Confirm **$204,600** supported, **$13,100** disputed, **$0** reconciliation difference, no active quality hold, and human review required.
 
     ![Review the response](./assets/04.14-review-response.png)
 
-1. At the bottom of the response, select the `Caldova_Supplier_Review_ARB-260814.pdf` and open it.
+1. At the bottom of the response, select the **Caldova_Supplier_Review_ARB-260814.pdf** and open it.
 
     ![Open the PDF](./assets/04.15-select-pdf.png)
 
@@ -124,7 +124,7 @@ The harness will coordinate two skills. Invoice Fact Check gathers and structure
     ![Enter the prompt](./assets/04.17-follow-up-prompt.png)
 
 1. If it struggles to find the Invoice Review Log list, it might ask you for the URL. If it does, provide it with the URL.
-1. Review the response. Open the SharePoint `Invoice Review Log` and verify one ARB-260814 item with the expected amounts and `Interactive Agent` source.
+1. Review the response. Open the SharePoint **Invoice Review Log** and verify one ARB-260814 item with the expected amounts and **Interactive Agent** source.
 
     ![Review the log](./assets/04.18-review-log.png)
 
