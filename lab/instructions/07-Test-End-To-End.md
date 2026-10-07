@@ -6,7 +6,7 @@ You have the agent completed and the workflow to allow the end to end process to
 
 1. Open the invoice review request list:
 
-    +++@lab.Variable(REVIEW_REQUESTS_LIST_URL)+++
+   +++https://@lab.CloudCredential(AITour27M365E7).TenantPrefix.sharepoint.com/sites/CaldovaSupplierOps/Lists/Invoice%20Review%20Requests/AllItems.aspx+++ 
 
 1. Select the **New** button.
 
@@ -41,10 +41,10 @@ You have the agent completed and the workflow to allow the end to end process to
 
 1. Open the request item and review the Agent Response for the expected result:
 
-- invoice total `$122,300`
-- supported `$108,800`
-- disputed `$13,500`
-- reconciliation difference `$0`
+- invoice total $122,300
+- supported $108,800
+- disputed $13,500
+- reconciliation difference $0
 
     ![Check the response](./assets/07.7-agent-response.png)
 
