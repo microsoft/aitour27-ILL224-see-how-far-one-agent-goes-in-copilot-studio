@@ -14,7 +14,7 @@ Contracts, policy, approvals, and quality documents are are the sources that wil
 
 1. Enter the assigned tenant root site URL then select **Add**:
 
-    +++@lab.CloudCredential(AITour27M365E7).TenantPrefix.sharepoint.com/sites/CaldovaSupplierOps+++
+    +++https://@lab.CloudCredential(AITour27M365E7).TenantPrefix.sharepoint.com/sites/CaldovaSupplierOps+++
 
     ![Select the add button](./assets/02.3-add-button.png)
 
@@ -43,7 +43,7 @@ Contracts, policy, approvals, and quality documents are are the sources that wil
 
     ![Test prompt](./assets/02.7-test-prompt.png)
 
-1. Confirm the answer identifies 4%, `$7,400`, and the need for a revised purchase order and written VP approval.
+1. Confirm the answer identifies **4%**, **$7,400**, and the need for a **revised purchase order** and written **VP approval**.
 
     ![Review the response](./assets/02.8-prompt-response.png)
 
