@@ -64,7 +64,7 @@ Now we'll see how to add a layer of personalization to the agent with memories. 
 1. Select the **Browse** text and select this file:
 
     ```text
-    C:\LabFiles\evaluation\Supplier-Assurance-Baseline.csv
+    D:\LabFiles\evaluation\Supplier-Assurance-Baseline.csv
     ```
 
     ![Find the eval file](./assets/05.12-browse.png)
