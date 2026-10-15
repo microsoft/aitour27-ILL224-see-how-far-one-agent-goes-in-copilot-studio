@@ -1,15 +1,8 @@
 # ILL224: See How Far One Agent Goes in Copilot Studio
 
-![Microsoft AI Tour 2027](img/banner-ai-tour-27.png)
+![Microsoft Frontier Tour 2027](img/banner-frontier-tour-27.png)
 
-[Microsoft AI Tour 2027](https://aitour.microsoft.com)
-
-## Before you're done
-
-This repository has been initialized with the complete ILL224 lab content. Before publication:
-
-- Add the public delivery deck URL to [delivery resources](delivery-resources/README.md).
-- Run the repository's `help me finalize repo` workflow to validate links and remove template-only tooling.
+[Microsoft Frontier Tour 2027](https://aitour.microsoft.com)
 
 ### Session description
 
@@ -59,7 +52,7 @@ By the end of this session, you will be able to:
 | [Microsoft Copilot Studio documentation](https://learn.microsoft.com/microsoft-copilot-studio/) | Product concepts, authoring guidance, and administration documentation |
 | [Microsoft Learn](https://learn.microsoft.com) | Official documentation and guided learning paths |
 | [Session recording](https://aka.ms/aitour27/ILL224/youtube) | Watch the ILL224 session recording |
-| [AI Tour 2027 Resource Center](https://aka.ms/aitour27-resource-center) | Additional AI Tour session repositories and materials |
+| [Frontier Tour 2027 Resource Center](https://aka.ms/FrontierTour27) | Additional Frontier Tour session repositories and materials |
 
 ### Content owner
 
